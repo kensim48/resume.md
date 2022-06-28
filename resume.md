@@ -10,7 +10,7 @@ line. It is intended to be used for contact details -->
 
 <!-- The paragraph after the h1 and ul and before the first h2 is optional. It
 is intended to be used for a short summary. -->
-Software Engineer with a specialization in blockchain, cybersecurity, and experience in building scalable technology for the Cloud.
+Software Engineer with 2 years of professional experience working on Python backend and AWS Cloud. Handled production systems with SDLC experience. Works on several side projects in free time.
 
 ## Experience
 
@@ -18,47 +18,52 @@ Software Engineer with a specialization in blockchain, cybersecurity, and experi
 hand -->
 ### <span>Associate Cybersecurity Specialist (Software Engineer), GovTech Singapore</span> <span>Apr 2021 -- Now</span>
 
-Developed Webmon, an internal government web application made to aid in the monitoring and response of cybersecurity attacks in a team of 6 as a backend engineer
+Product owner/backend developer for an internal web app made to actively scan the web, detecting phishing websites, in an agile team of 4
 
-- Handled sprint planning, task creation and maintenance of code quality and documentation
-- Spearheaded Jira ticketing system in branches and commits to easier track and resolve issues
+- Designed and developed fully serverless architecture on AWS Lambda (Python), DynamoDB, Cognito, and SQS
+- Carried out interviews with users to understand use cases
+- Worked with UI/UX developer to craft user experience
+- Led inter-government agency communications to facilitate code collaboration
+<br/><br/>
+
+Planned, developed, tested and maintained the backend of an internal web application (Django/Lambda) made to aid in the monitoring and response of cybersecurity attacks of >5000 websites, in an agile team of 6
+
 - Created custom defacement scanning algorithms functioning on AWS Lambda and Step Functions to detect and protect government websites, scanning a single site in <10 seconds
-- Led overhaul of Webmon's code(from Flask to Django) and infrastructure(deeper integration with AWS) achieving higher levels of scalability, maintainability and developer productivity
-- Used Docker Compose to create a customized and easy to use containerized developer environment
+- Led overhaul of the existing code base and infrastructure from POC to Production achieving higher levels of scalability, maintainability and developer productivity
+- Created multiple custom automation scripts/environments to aid in the team's development i.e. docker-compose, pre-commit unit testing and linting, custom Lambda hot-reloading solution and code templates
 
 ### <span>Product Engineer, Cynopsis Solutions Pte. Ltd.</span> <span>Sep 2020 -- Apr 2021</span>
 
-Worked on maintenance and upgrading of Artermis, a Know Your Customer(KYC) web platform that is used by major banks, e-commerce and cryptocurrency companies as a co-product owner and backend engineer 
+Maintained and developed new features for Artemis, a Know Your Customer (KYC) SAAS used by major banks, e-commerce and cryptocurrency companies as a co-product owner and backend developer 
 
-- Worked with more than 20 clients from major financial institutions on deals each worth > $100k
+- Worked with more than 20 clients from major financial institutions on deals each worth > SGD$100k
 - Managed and coordinated external vendors to ensure that the project is on track to completion
 - Studied different clients' network and security needs, designing and modifying Artemis so that it meets their specifications
-- Handled day-to-day development of backend(Flask) and production database(PostgreSQL)
-- Maintained and upkeep of AWS infrastructure, including ECS, SQS and SES for running of business operations
+- Maintained AWS infrastructure, including ECS, SQS and SES for running of business operations
 
 ## Projects
+
+### <span>Tech Mentor, SAGE -- [sagexperiences.com](https://sagexperiences.com/)</span> <span>Aug 2021 -- Now</span>
+Mentor a student startup based in SUTD that focuses on professional networking
+
+- Guide the tech team on scaling up their current application, application security, and best developer practices to ensure code maintainability
+- Stood in as Tech Lead for 2 months while the team was undergoing transition, managing project direction and task allocation
+- Finalist in Create4Good Challenge 2021
 
 ### <span>Co-Founder/Developer, Kitty Party -- [kittyparty.finance](https://kittyparty.finance/#/)</span> <span>Apr 2021 -- Now</span>
 Co-founded DAO DeFi project using NFTs as a governance token, built on both the Ethereum and Polygon blockchains to provide a decentralized ROSCA system
 
 - Winner of the Polygon Runner Up Prize in Chainlink Virtual Hackathon Spring 2021
-- Assisting in talks with different cryptocurrencies/blockchains for project funding
+- Assisted in talks with Polygon and Chainlink, successfully gaining USD$10k project funding
 - Wrote the original Smart Contract code in Solidity
 - Created the NFT image generation script using OpenCV
-
-### <span>Solo Developer, kensim.dev Custom CI/CD -- [kensim.dev/website_infrastructure](https://kensim.dev/website_infrastructure.html)</span> <span>Jun 2021 -- Aug 2021</span>
-Created a custom CI/CD pipeline to host multiple websites on a single VM, designed to be cheap and easy to maintain
-
-- Built a custom CI/CD pipeline using Nginx Docker, Flask, GitHub Webhooks and GCP Cloud Build
-- Designed architecture to host multiple websites given personal limitation of using Google Cloud Platform's free tier
-- Created a custom Telegram bot to notify the user of the status of the pipeline
 
 ### <span>Software Lead, The Cog Effect -- [capstone2020.sutd.edu.sg](https://capstone2020.sutd.edu.sg/projects/the-cog-effect)</span> <span>Jan 2020 -- Aug 2020</span>
 Designed and developed a cognitive rehabilitation platform
 
-- Led team of 3 Software Engineers in a team of 6 with task planning and client communication
+- Led a team of 3 Software Engineers in a team of 6 with task planning and client communication
 - Coordinated and architected a multi-platform project consisting of a Unity iOS app, Vue.js web app, Arduino + Bluetooth hardware, Django backend and PostgreSQL database
-- Single-handedly created the web application, backend and Arduino portions of the application and handled GCP deployment
+- Single-handedly created the web application, backend, and Arduino portions of the application as well as handled GCP deployment
 
 ## Education
 
@@ -75,8 +80,8 @@ Designed and developed a cognitive rehabilitation platform
 
 ## Skills & Certification
 
+ - AWS Certified Solutions Architect – Professional certification
  - Certified Ethical Hacker (CEHv10) certification
- - AWS Certified Solutions Architect – Associate certification
- - Language: Python, Bash, Solidity, SQL, Javascript, HTML/CSS, Java, C, C#
+ - Language/Database: Python, Bash, Solidity, SQL, Javascript, HTML/CSS, Java, C, C#, MySQL, PostgreSQL, DyanmoDB, .net
  - Framework/Platform: Django, Flask, Docker, Git, Android, Unity, Vue.js, React.js, Arduino, RaspPi, Linux
  - Cloud Services: AWS, GCP, Azure, IBM Cloud
