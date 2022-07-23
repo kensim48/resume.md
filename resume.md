@@ -18,21 +18,21 @@ Software Engineer with 2 years of professional experience working on Python back
 hand -->
 ### <span>Associate Cybersecurity Specialist (Software Engineer), GovTech Singapore</span> <span>Apr 2021 -- Now</span>
 
-Product owner/backend developer for an internal web app made to actively scan the web, detecting phishing websites, in an agile team of 4
+Product owner/backend developer for an internal web app made to actively scan the web, detecting phishing websites, in an Agile team of 4
 
 - Designed and developed fully serverless architecture on AWS Lambda (Python), DynamoDB, Cognito, and SQS
 - Carried out interviews with users to understand use cases
-- Worked with UI/UX developer to craft user experience
+- Worked with UI/UX developer to craft the user experience
 - Led inter-government agency communications to facilitate code collaboration
 <br/><br/>
 
-Planned, developed, tested and maintained the backend of an internal web application (Django/Lambda) made to aid in the monitoring and response of cybersecurity attacks of >5000 websites, in an agile team of 6
+Planned, developed, tested and maintained the backend of an internal web application (Django/Lambda) made to aid in the monitoring and response of cybersecurity attacks of >5000 websites, in an Agile team of 6
 
 - Created custom defacement scanning algorithms functioning on AWS Lambda and Step Functions to detect and protect government websites, scanning a single site in <10 seconds
 - Led overhaul of the existing code base and infrastructure from POC to Production achieving higher levels of scalability, maintainability and developer productivity
 - Created multiple custom automation scripts/environments to aid in the team's development i.e. docker-compose, pre-commit unit testing and linting, custom Lambda hot-reloading solution and code templates
 
-### <span>Product Engineer, Cynopsis Solutions Pte. Ltd.</span> <span>Sep 2020 -- Apr 2021</span>
+### <span>Associate Software Engineer, Cynopsis Solutions Pte. Ltd.</span> <span>Sep 2020 -- Apr 2021</span>
 
 Maintained and developed new features for Artemis, a Know Your Customer (KYC) SAAS used by major banks, e-commerce and cryptocurrency companies as a co-product owner and backend developer 
 
